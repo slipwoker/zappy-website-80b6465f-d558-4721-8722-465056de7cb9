@@ -1,0 +1,100 @@
+# M.D Jewelry — Generative Engine Optimization Map
+
+> A jewelry brand website with an elegant and romantic aesthetic, featuring rose gold as the primary accent color against a clean white background. The visual identity evokes luxury, femininity, and refined sophistication — a timeless and polished look suited for a high-end jewelry brand.
+
+---
+
+## Pages
+
+### בית
+https://m-d-jewelry-80b6465f.zappy5.app
+מותג תכשיטי יוקרה המשלב עיצוב אישי, אלגנטיות נשית וזהב ורוד על רקע לבן נקי. היכנסו להתאהב בקולקציה שמספרת את הסיפור שלכם — קבעו פגישת ייעוץ עוד היום.
+
+### אומנות
+https://m-d-jewelry-80b6465f.zappy5.app/craftsmanship
+היכנסו אל מאחורי הקלעים של M.D Jewelry וגלו איך אומנות מסורתית פוגשת תשוקה לפרטים הקטנים. כל תכשיט הוא יצירת מופת — בואו לחוות את הקסם שמתחיל בידיים שלנו ונגמר עליכן.
+
+### כלות ומתנות
+https://m-d-jewelry-80b6465f.zappy5.app/bridal-gifting
+מחפשים את תכשיט החלומות ליום המיוחד או מתנת יוקרה בלתי נשכחת? M.D Jewelry מציעים קולקציית כלות ומתנות בעיצוב אישי, עטופה ברומנטיקה וזהב ורוד — פנקו את עצמכן או את האהובה בלעדיות מושלמת.
+
+### צור קשר
+https://m-d-jewelry-80b6465f.zappy5.app/contact
+יש לכן חזון לתכשיט המושלם? צוות M.D Jewelry כאן להקשיב, לייעץ ולהגשים. השאירו פרטים ונחזור אליכן עם הצעה שתתאים בדיוק לכן — כי מגיע לכן ליהנות מיוקרה שנתפרת למידותיכן.
+
+### Products
+https://m-d-jewelry-80b6465f.zappy5.app/products
+המוצרים שלנו - M.D Jewelry
+
+### Cart
+https://m-d-jewelry-80b6465f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://m-d-jewelry-80b6465f.zappy5.app/checkout
+תשלום
+
+### Login
+https://m-d-jewelry-80b6465f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://m-d-jewelry-80b6465f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://m-d-jewelry-80b6465f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://m-d-jewelry-80b6465f.zappy5.app/product/:slug
+פרטי המוצר - M.D Jewelry
+
+### Category
+https://m-d-jewelry-80b6465f.zappy5.app/category/:slug
+מוצרים - M.D Jewelry
+
+## Legal & Policy
+
+### Privacy Policy
+https://m-d-jewelry-80b6465f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://m-d-jewelry-80b6465f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://m-d-jewelry-80b6465f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About M.D Jewelry
+A jewelry brand website with an elegant and romantic aesthetic, featuring rose gold as the primary accent color against a clean white background. The visual identity evokes luxury, femininity, and refined sophistication — a timeless and polished look suited for a high-end jewelry brand.
+
+## Target Audience
+- מחפשי יוקרה
+- קונים לחתונה
+- חובבי אופנה
+
+## Industry
+Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://m-d-jewelry-80b6465f.zappy5.app/sitemap.xml
+- Robots: https://m-d-jewelry-80b6465f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://m-d-jewelry-80b6465f.zappy5.app/llms-full.txt
+- Products (JSON): https://m-d-jewelry-80b6465f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://m-d-jewelry-80b6465f.zappy5.app/product-feed.xml
