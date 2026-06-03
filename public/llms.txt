@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://m-d-jewelry-80b6465f.zappy5.app
+https://example.com
 מותג תכשיטי יוקרה המשלב עיצוב אישי, אלגנטיות נשית וזהב ורוד על רקע לבן נקי. היכנסו להתאהב בקולקציה שמספרת את הסיפור שלכם — קבעו פגישת ייעוץ עוד היום.
 
 ### אומנות
-https://m-d-jewelry-80b6465f.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 היכנסו אל מאחורי הקלעים של M.D Jewelry וגלו איך אומנות מסורתית פוגשת תשוקה לפרטים הקטנים. כל תכשיט הוא יצירת מופת — בואו לחוות את הקסם שמתחיל בידיים שלנו ונגמר עליכן.
 
 ### כלות ומתנות
-https://m-d-jewelry-80b6465f.zappy5.app/bridal-gifting
+https://example.com/bridal-gifting
 מחפשים את תכשיט החלומות ליום המיוחד או מתנת יוקרה בלתי נשכחת? M.D Jewelry מציעים קולקציית כלות ומתנות בעיצוב אישי, עטופה ברומנטיקה וזהב ורוד — פנקו את עצמכן או את האהובה בלעדיות מושלמת.
 
 ### צור קשר
-https://m-d-jewelry-80b6465f.zappy5.app/contact
+https://example.com/contact
 יש לכן חזון לתכשיט המושלם? צוות M.D Jewelry כאן להקשיב, לייעץ ולהגשים. השאירו פרטים ונחזור אליכן עם הצעה שתתאים בדיוק לכן — כי מגיע לכן ליהנות מיוקרה שנתפרת למידותיכן.
 
 ### Products
-https://m-d-jewelry-80b6465f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - M.D Jewelry
 
 ### Cart
-https://m-d-jewelry-80b6465f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://m-d-jewelry-80b6465f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://m-d-jewelry-80b6465f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://m-d-jewelry-80b6465f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://m-d-jewelry-80b6465f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://m-d-jewelry-80b6465f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - M.D Jewelry
 
 ### Category
-https://m-d-jewelry-80b6465f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - M.D Jewelry
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://m-d-jewelry-80b6465f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://m-d-jewelry-80b6465f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://m-d-jewelry-80b6465f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://m-d-jewelry-80b6465f.zappy5.app/sitemap.xml
-- Robots: https://m-d-jewelry-80b6465f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://m-d-jewelry-80b6465f.zappy5.app/llms-full.txt
-- Products (JSON): https://m-d-jewelry-80b6465f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://m-d-jewelry-80b6465f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
